@@ -1,0 +1,38 @@
+[
+    {
+        "Title": "A Brief History of Time",
+        "Author": "Stephen Hawking",
+        "ISBN": "9780553380163",
+        "Status": "Available"
+    },
+    {
+        "Title": "The Selfish Gene",
+        "Author": "Richard Dawkins",
+        "ISBN": "9780199291151",
+        "Status": "Borrowed"
+    },
+    {
+        "Title": "Cosmos",
+        "Author": "Carl Sagan",
+        "ISBN": "9780345331359",
+        "Status": "Available"
+    },
+    {
+        "Title": "The Elegant Universe",
+        "Author": "Brian Greene",
+        "ISBN": "9780393338102",
+        "Status": "Borrowed"
+    },
+    {
+        "Title": "The Gene: An Intimate History",
+        "Author": "Siddhartha Mukherjee",
+        "ISBN": "9781476733524",
+        "Status": "Available"
+    },
+    {
+        "Title": "The wings of fire",
+        "Author": "Dr. APJ Abdul Kalam",
+        "ISBN": "9780393392131",
+        "Status": "Available"
+    }
+]

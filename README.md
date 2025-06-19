@@ -7,16 +7,23 @@ Features:
 Add, search, and remove books
 
 Register and remove users
+
 Borrow and return books
+
 Track borrowed books by user
+
 Store data in books.json and users.json
 
 Files:
 library.py – Main script with all logic
+
 books.json – Stores book data
+
 users.json – Stores user data
 
 Tech Used:
 Python 3
+
 JSON for data storage
+
 Console interface

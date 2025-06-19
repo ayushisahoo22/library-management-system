@@ -5,6 +5,7 @@ This is a console-based Library Management System written in Python. It allows m
 
 Features:
 Add, search, and remove books
+
 Register and remove users
 Borrow and return books
 Track borrowed books by user

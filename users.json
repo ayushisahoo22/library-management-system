@@ -1,0 +1,31 @@
+[
+    {
+        "User": "Dr. Ananya Sharma",
+        "User Id": "U100",
+        "Borrowed books": [
+            "9780199291151"
+        ]
+    },
+    {
+        "User": "Prof. Rajeev Mehta",
+        "User Id": "U101",
+        "Borrowed books": [
+            "9780393338102"
+        ]
+    },
+    {
+        "User": "Sneha Verma",
+        "User Id": "U102",
+        "Borrowed books": []
+    },
+    {
+        "User": "Rishabh Singh Yadav",
+        "User Id": "U105",
+        "Borrowed books": []
+    },
+    {
+        "User": "Ayushi",
+        "User Id": "108",
+        "Borrowed books": []
+    }
+]

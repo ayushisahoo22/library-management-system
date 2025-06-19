@@ -1,32 +1,54 @@
 # library-management-system
 Repository for library management system using python
 
-This is a console-based Library Management System written in Python. It allows managing books and users, borrowing and returning books, and keeps records in JSON files.
+A simple console-based Library Management System written in Python. This project helps manage books and users, handle borrow and return operations, and store data persistently using JSON files. It's ideal for learning file handling, object-oriented programming, and basic system design in Python.
 
-Features:
+---
 
-1. Add, search, and remove books
+## 🚀 Features
 
-2. Register and remove users
+- 📖 Add, remove, and search for books
+- 👥 Register and remove users
+- 📥 Borrow and 📤 return books
+- 📌 Track borrowed books per user
+- 📋 View all books or only available ones
+- 🧾 View borrowed books by user
+- 💾 Data is saved in `books.json` and `users.json` between runs
 
-3. Borrow and return books
+---
 
-4. Track borrowed books by user
+## 🛠 Tech Stack
 
-5. Store data in books.json and users.json
+- **Language:** Python 3
+- **Storage:** JSON files
+- **Interface:** Console (Text-based menu system)
 
-Files:
+---
 
-1. library.py – Main script with all logic
+## ▶️ How to Run
 
-2. books.json – Stores book data
+1. **Install Python 3** (if not already installed)  
+2. **Download or clone this repository**
 
-3. users.json – Stores user data
 
-Tech Used:
+## File structure
 
-1. Python 3
+*library-management-system*
+- ├── library.py        # Main script with all logic and class definitions
+- ├── books.json        # Book records (auto-created if not present)
+- ├── users.json        # User records (auto-created if not present)
+- └── README.md         # Project documentation
 
-2. JSON for data storage
+## 🌱 Future Improvements
 
-3. Console interface
+1. **Add a GUI using Tkinter or PyQt**
+2. **Integrate a database like SQLite for better scalability**
+3. **Add due date and fine system**
+4. **Implement user login and password security**
+
+## 🙋‍♀️ Author
+**Ayushi Sahoo**
+
+## 🪪 License
+This project is currently not licensed. Feel free to use or modify it for learning or non-commercial purposes. If you plan to distribute it or use it commercially, please consider adding an open-source license like MIT.
+

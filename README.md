@@ -3,7 +3,6 @@ Repository for library management system using python
 
 A simple console-based Library Management System written in Python. This project helps manage books and users, handle borrow and return operations, and store data persistently using JSON files. It's ideal for learning file handling, object-oriented programming, and basic system design in Python.
 
----
 
 ## 🚀 Features
 
@@ -15,7 +14,6 @@ A simple console-based Library Management System written in Python. This project
 - 🧾 View borrowed books by user
 - 💾 Data is saved in `books.json` and `users.json` between runs
 
----
 
 ## 🛠 Tech Stack
 
@@ -23,7 +21,6 @@ A simple console-based Library Management System written in Python. This project
 - **Storage:** JSON files
 - **Interface:** Console (Text-based menu system)
 
----
 
 ## ▶️ How to Run
 

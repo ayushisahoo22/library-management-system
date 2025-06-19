@@ -4,26 +4,29 @@ Repository for library management system using python
 This is a console-based Library Management System written in Python. It allows managing books and users, borrowing and returning books, and keeps records in JSON files.
 
 Features:
-Add, search, and remove books
 
-Register and remove users
+1. Add, search, and remove books
 
-Borrow and return books
+2. Register and remove users
 
-Track borrowed books by user
+3. Borrow and return books
 
-Store data in books.json and users.json
+4. Track borrowed books by user
+
+5. Store data in books.json and users.json
 
 Files:
-library.py – Main script with all logic
 
-books.json – Stores book data
+1. library.py – Main script with all logic
 
-users.json – Stores user data
+2. books.json – Stores book data
+
+3. users.json – Stores user data
 
 Tech Used:
-Python 3
 
-JSON for data storage
+1. Python 3
 
-Console interface
+2. JSON for data storage
+
+3. Console interface
